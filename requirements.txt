@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+scikit-learn
+nltk
+dill
+flask
+dvc
+mlflow
