@@ -21,7 +21,7 @@ setup(
     name = 'mlproject',
     version='0.0.1',
     author='Muhammad Haseeb',
-    author_email='khizar1@gmail.com',
+    author_email='mhaseeb04@users.noreply.github.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
    

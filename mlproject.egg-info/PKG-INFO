@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: mlproject
 Version: 0.0.1
 Author: Muhammad Haseeb
-Author-email: khizar1@gmail.com
+Author-email: mhaseeb04@users.noreply.github.com
 Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: seaborn
